@@ -1,2 +1,1 @@
-fastbook
-voila
+https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2
